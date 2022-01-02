@@ -1,2 +1,2 @@
-# bevoblaster
-A handheld game similar to Space Invades
+# Bevo Blaster
+A handheld game similar to Space Invaders
